@@ -1,0 +1,517 @@
+[2025-06-17 12:21:16] Command received: OFF1
+[2025-06-17 12:21:16] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:21:16] Connected to MQTT broker successfully
+[2025-06-17 12:21:16] Failed to send command
+[2025-06-17 12:21:16] MQTT connection closed
+[2025-06-17 12:21:18] Command received: OFF2
+[2025-06-17 12:21:18] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:21:19] Connected to MQTT broker successfully
+[2025-06-17 12:21:19] Failed to send command
+[2025-06-17 12:21:19] MQTT connection closed
+[2025-06-17 12:21:21] Command received: ON2
+[2025-06-17 12:21:21] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:21:21] Connected to MQTT broker successfully
+[2025-06-17 12:21:21] Failed to send command
+[2025-06-17 12:21:21] MQTT connection closed
+[2025-06-17 12:21:23] Command received: ON1
+[2025-06-17 12:21:23] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:21:23] Connected to MQTT broker successfully
+[2025-06-17 12:21:23] Failed to send command
+[2025-06-17 12:21:23] MQTT connection closed
+[2025-06-17 12:21:25] Command received: ON1
+[2025-06-17 12:21:25] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:21:25] Connected to MQTT broker successfully
+[2025-06-17 12:21:25] Failed to send command
+[2025-06-17 12:21:25] MQTT connection closed
+[2025-06-17 12:21:27] Command received: ON3
+[2025-06-17 12:21:27] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:21:27] Connected to MQTT broker successfully
+[2025-06-17 12:21:27] Failed to send command
+[2025-06-17 12:21:27] MQTT connection closed
+[2025-06-17 12:23:09] Command received: ON1
+[2025-06-17 12:23:09] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:23:09] Connected to MQTT broker successfully
+[2025-06-17 12:23:09] Failed to send command
+[2025-06-17 12:23:09] MQTT connection closed
+[2025-06-17 12:23:10] Command received: OFF1
+[2025-06-17 12:23:10] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:23:10] Connected to MQTT broker successfully
+[2025-06-17 12:23:10] Failed to send command
+[2025-06-17 12:23:10] MQTT connection closed
+[2025-06-17 12:23:12] Command received: ON1
+[2025-06-17 12:23:12] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:23:12] Connected to MQTT broker successfully
+[2025-06-17 12:23:12] Failed to send command
+[2025-06-17 12:23:12] MQTT connection closed
+[2025-06-17 12:23:13] Command received: OFF2
+[2025-06-17 12:23:13] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:23:13] Connected to MQTT broker successfully
+[2025-06-17 12:23:13] Failed to send command
+[2025-06-17 12:23:13] MQTT connection closed
+[2025-06-17 12:23:15] Command received: ON3
+[2025-06-17 12:23:15] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:23:16] Connected to MQTT broker successfully
+[2025-06-17 12:23:16] Failed to send command
+[2025-06-17 12:23:16] MQTT connection closed
+[2025-06-17 12:23:44] Command received: ON1
+[2025-06-17 12:23:44] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:23:44] Connected to MQTT broker successfully
+[2025-06-17 12:23:44] Failed to send command
+[2025-06-17 12:23:44] MQTT connection closed
+[2025-06-17 12:23:50] Command received: ON1
+[2025-06-17 12:23:50] Connecting to MQTT server: mqtt.revolusi-it.com:1883
+[2025-06-17 12:23:50] Connected to MQTT broker successfully
+[2025-06-17 12:23:50] Failed to send command
+[2025-06-17 12:23:50] MQTT connection closed
+[2025-06-17 12:25:26] Command received: OFF1
+[2025-06-17 12:25:26] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_88687
+[2025-06-17 12:25:26] Connected to MQTT broker successfully
+[2025-06-17 12:25:26] Error: Publish returned false
+[2025-06-17 12:25:27] Command received: ON1
+[2025-06-17 12:25:27] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_69017
+[2025-06-17 12:25:27] Connected to MQTT broker successfully
+[2025-06-17 12:25:27] Error: Publish returned false
+[2025-06-17 12:25:28] Command received: ON2
+[2025-06-17 12:25:28] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_30321
+[2025-06-17 12:25:28] Connected to MQTT broker successfully
+[2025-06-17 12:25:28] Error: Publish returned false
+[2025-06-17 12:25:30] Command received: ON3
+[2025-06-17 12:25:30] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_97543
+[2025-06-17 12:25:30] Connected to MQTT broker successfully
+[2025-06-17 12:25:30] Error: Publish returned false
+[2025-06-17 12:25:31] Command received: OFF3
+[2025-06-17 12:25:31] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_72685
+[2025-06-17 12:25:32] Connected to MQTT broker successfully
+[2025-06-17 12:25:32] Error: Publish returned false
+[2025-06-17 12:25:32] Command received: OFF1
+[2025-06-17 12:25:32] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_91674
+[2025-06-17 12:25:32] Connected to MQTT broker successfully
+[2025-06-17 12:25:32] Error: Publish returned false
+[2025-06-17 12:25:34] Command received: OFF1
+[2025-06-17 12:25:34] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_97763
+[2025-06-17 12:25:34] Connected to MQTT broker successfully
+[2025-06-17 12:25:34] Error: Publish returned false
+[2025-06-17 12:29:23] Command received: ON1
+[2025-06-17 12:29:23] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_22494
+[2025-06-17 12:29:24] Connected to MQTT broker successfully
+[2025-06-17 12:29:24] Error: Publish returned false
+[2025-06-17 12:29:27] Command received: ON2
+[2025-06-17 12:29:27] Connecting to MQTT server: mqtt.revolusi-it.com:1883 with client ID: phpPublisher_84588
+[2025-06-17 12:29:27] Connected to MQTT broker successfully
+[2025-06-17 12:29:27] Error: Publish returned false
+[2025-06-17 12:31:25] Command script started
+[2025-06-17 12:31:25] Command received: OFF1
+[2025-06-17 12:31:25] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_78926
+[2025-06-17 12:31:26] Connected to MQTT broker successfully
+[2025-06-17 12:31:26] Failed to publish command
+[2025-06-17 12:31:27] Command script started
+[2025-06-17 12:31:27] Command received: ON1
+[2025-06-17 12:31:27] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_9400
+[2025-06-17 12:31:27] Connected to MQTT broker successfully
+[2025-06-17 12:31:27] Failed to publish command
+[2025-06-17 12:31:28] Command script started
+[2025-06-17 12:31:28] Command received: ON2
+[2025-06-17 12:31:28] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_19951
+[2025-06-17 12:31:28] Connected to MQTT broker successfully
+[2025-06-17 12:31:28] Failed to publish command
+[2025-06-17 12:31:28] Command script started
+[2025-06-17 12:31:28] Command received: ON2
+[2025-06-17 12:31:28] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_14010
+[2025-06-17 12:31:29] Connected to MQTT broker successfully
+[2025-06-17 12:31:29] Failed to publish command
+[2025-06-17 12:31:29] Command script started
+[2025-06-17 12:31:29] Command received: ON2
+[2025-06-17 12:31:29] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_8043
+[2025-06-17 12:31:29] Connected to MQTT broker successfully
+[2025-06-17 12:31:29] Failed to publish command
+[2025-06-17 12:31:29] Command script started
+[2025-06-17 12:31:29] Command received: ON3
+[2025-06-17 12:31:29] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_6583
+[2025-06-17 12:31:29] Connected to MQTT broker successfully
+[2025-06-17 12:31:29] Failed to publish command
+[2025-06-17 12:31:30] Command script started
+[2025-06-17 12:31:30] Command received: OFF3
+[2025-06-17 12:31:30] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_98327
+[2025-06-17 12:31:30] Connected to MQTT broker successfully
+[2025-06-17 12:31:30] Failed to publish command
+[2025-06-17 12:31:30] Command script started
+[2025-06-17 12:31:30] Command received: ON2
+[2025-06-17 12:31:30] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_4091
+[2025-06-17 12:31:31] Connected to MQTT broker successfully
+[2025-06-17 12:31:31] Failed to publish command
+[2025-06-17 12:31:31] Command script started
+[2025-06-17 12:31:31] Command received: ON3
+[2025-06-17 12:31:31] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_58362
+[2025-06-17 12:31:31] Connected to MQTT broker successfully
+[2025-06-17 12:31:31] Failed to publish command
+[2025-06-17 12:31:32] Command script started
+[2025-06-17 12:31:32] Command received: ON3
+[2025-06-17 12:31:32] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_19921
+[2025-06-17 12:31:32] Connected to MQTT broker successfully
+[2025-06-17 12:31:32] Failed to publish command
+[2025-06-17 12:31:32] Command script started
+[2025-06-17 12:31:32] Command received: ON2
+[2025-06-17 12:31:32] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as phpPublisher_2513
+[2025-06-17 12:31:33] Connected to MQTT broker successfully
+[2025-06-17 12:31:33] Failed to publish command
+[2025-06-17 12:35:19] Command script started
+[2025-06-17 12:35:19] Command received: ON1
+[2025-06-17 12:35:19] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-11945
+[2025-06-17 12:35:19] Connected to MQTT broker successfully
+[2025-06-17 12:35:19] Failed to publish command
+[2025-06-17 12:35:20] Command script started
+[2025-06-17 12:35:20] Command received: OFF1
+[2025-06-17 12:35:20] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-56943
+[2025-06-17 12:35:21] Connected to MQTT broker successfully
+[2025-06-17 12:35:21] Failed to publish command
+[2025-06-17 12:35:23] Command script started
+[2025-06-17 12:35:23] Command received: OFF2
+[2025-06-17 12:35:23] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-66285
+[2025-06-17 12:35:23] Connected to MQTT broker successfully
+[2025-06-17 12:35:23] Failed to publish command
+[2025-06-17 12:38:10] Command script started
+[2025-06-17 12:38:10] Command received: OFF2
+[2025-06-17 12:38:10] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-92156
+[2025-06-17 12:38:11] Connected to MQTT broker successfully
+[2025-06-17 12:38:11] Failed to publish command
+[2025-06-17 12:38:12] Command script started
+[2025-06-17 12:38:12] Command received: OFF1
+[2025-06-17 12:38:12] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-93714
+[2025-06-17 12:38:12] Connected to MQTT broker successfully
+[2025-06-17 12:38:12] Failed to publish command
+[2025-06-17 12:38:15] Command script started
+[2025-06-17 12:38:15] Command received: ON3
+[2025-06-17 12:38:15] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-81715
+[2025-06-17 12:38:15] Connected to MQTT broker successfully
+[2025-06-17 12:38:15] Failed to publish command
+[2025-06-17 12:38:31] Command script started
+[2025-06-17 12:38:31] Command received: OFF1
+[2025-06-17 12:38:31] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-92097
+[2025-06-17 12:38:31] Connected to MQTT broker successfully
+[2025-06-17 12:38:31] Failed to publish command
+[2025-06-17 12:38:31] Command script started
+[2025-06-17 12:38:31] Command received: OFF1
+[2025-06-17 12:38:31] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-52884
+[2025-06-17 12:38:32] Connected to MQTT broker successfully
+[2025-06-17 12:38:32] Failed to publish command
+[2025-06-17 12:38:32] Command script started
+[2025-06-17 12:38:32] Command received: OFF2
+[2025-06-17 12:38:32] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-25006
+[2025-06-17 12:38:32] Connected to MQTT broker successfully
+[2025-06-17 12:38:32] Failed to publish command
+[2025-06-17 12:38:33] Command script started
+[2025-06-17 12:38:33] Command received: OFF3
+[2025-06-17 12:38:33] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-39416
+[2025-06-17 12:38:33] Connected to MQTT broker successfully
+[2025-06-17 12:38:33] Failed to publish command
+[2025-06-17 12:38:47] Command script started
+[2025-06-17 12:38:47] Command received: OFF3
+[2025-06-17 12:38:47] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-34773
+[2025-06-17 12:38:47] Connected to MQTT broker successfully
+[2025-06-17 12:38:47] Failed to publish command
+[2025-06-17 12:38:51] Command script started
+[2025-06-17 12:38:51] Command received: ON3
+[2025-06-17 12:38:51] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-29402
+[2025-06-17 12:38:52] Connected to MQTT broker successfully
+[2025-06-17 12:38:52] Failed to publish command
+[2025-06-19 16:48:48] Command script started
+[2025-06-19 16:48:48] Command received: OFF1
+[2025-06-19 16:48:48] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-16495
+[2025-06-19 16:48:48] Connected to MQTT broker successfully
+[2025-06-19 16:48:48] Failed to publish command
+[2025-06-19 16:48:51] Command script started
+[2025-06-19 16:48:51] Command received: TOGGLE
+[2025-06-19 16:48:51] Invalid command: TOGGLE
+[2025-06-19 16:48:53] Command script started
+[2025-06-19 16:48:53] Command received: TOGGLE
+[2025-06-19 16:48:53] Invalid command: TOGGLE
+[2025-06-19 16:48:53] Command script started
+[2025-06-19 16:48:53] Command received: TOGGLE
+[2025-06-19 16:48:53] Invalid command: TOGGLE
+[2025-06-19 16:48:54] Command script started
+[2025-06-19 16:48:54] Command received: OFF1
+[2025-06-19 16:48:54] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-57385
+[2025-06-19 16:48:54] Connected to MQTT broker successfully
+[2025-06-19 16:48:54] Failed to publish command
+[2025-06-19 16:48:55] Command script started
+[2025-06-19 16:48:55] Command received: OFF2
+[2025-06-19 16:48:55] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-91944
+[2025-06-19 16:48:56] Connected to MQTT broker successfully
+[2025-06-19 16:48:56] Failed to publish command
+[2025-06-19 16:48:57] Command script started
+[2025-06-19 16:48:57] Command received: OFF3
+[2025-06-19 16:48:57] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-43086
+[2025-06-19 16:48:57] Connected to MQTT broker successfully
+[2025-06-19 16:48:57] Failed to publish command
+[2025-06-19 16:49:07] Command script started
+[2025-06-19 16:49:07] Command received: ON1
+[2025-06-19 16:49:07] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-19536
+[2025-06-19 16:49:07] Connected to MQTT broker successfully
+[2025-06-19 16:49:07] Failed to publish command
+[2025-06-19 16:49:10] Command script started
+[2025-06-19 16:49:10] Command received: ON2
+[2025-06-19 16:49:10] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-62772
+[2025-06-19 16:49:10] Connected to MQTT broker successfully
+[2025-06-19 16:49:10] Failed to publish command
+[2025-06-19 16:49:13] Command script started
+[2025-06-19 16:49:13] Command received: ON3
+[2025-06-19 16:49:13] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-38195
+[2025-06-19 16:49:13] Connected to MQTT broker successfully
+[2025-06-19 16:49:13] Failed to publish command
+[2025-06-19 16:50:02] Command script started
+[2025-06-19 16:50:02] Command received: OFF3
+[2025-06-19 16:50:02] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-52092
+[2025-06-19 16:50:02] Connected to MQTT broker successfully
+[2025-06-19 16:50:02] Failed to publish command
+[2025-06-19 16:50:07] Command script started
+[2025-06-19 16:50:07] Command received: OFF2
+[2025-06-19 16:50:07] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-92255
+[2025-06-19 16:50:07] Connected to MQTT broker successfully
+[2025-06-19 16:50:07] Failed to publish command
+[2025-06-19 16:50:10] Command script started
+[2025-06-19 16:50:10] Command received: OFF2
+[2025-06-19 16:50:10] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-97672
+[2025-06-19 16:50:10] Connected to MQTT broker successfully
+[2025-06-19 16:50:10] Failed to publish command
+[2025-06-19 16:50:18] Command script started
+[2025-06-19 16:50:18] Command received: OFF1
+[2025-06-19 16:50:18] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-31752
+[2025-06-19 16:50:18] Connected to MQTT broker successfully
+[2025-06-19 16:50:18] Failed to publish command
+[2025-06-19 16:50:23] Command script started
+[2025-06-19 16:50:23] Command received: AUTO
+[2025-06-19 16:50:23] Invalid command: AUTO
+[2025-06-19 16:50:29] Command script started
+[2025-06-19 16:50:29] Command received: TOGGLE
+[2025-06-19 16:50:29] Invalid command: TOGGLE
+[2025-06-19 16:50:45] Command script started
+[2025-06-19 16:50:45] Command received: ON1
+[2025-06-19 16:50:45] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-54381
+[2025-06-19 16:50:45] Connected to MQTT broker successfully
+[2025-06-19 16:50:45] Failed to publish command
+[2025-06-19 16:50:53] Command script started
+[2025-06-19 16:50:53] Command received: ON2
+[2025-06-19 16:50:53] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-80768
+[2025-06-19 16:50:53] Connected to MQTT broker successfully
+[2025-06-19 16:50:53] Failed to publish command
+[2025-06-19 16:51:00] Command script started
+[2025-06-19 16:51:00] Command received: ON3
+[2025-06-19 16:51:00] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-10711
+[2025-06-19 16:51:00] Connected to MQTT broker successfully
+[2025-06-19 16:51:00] Failed to publish command
+[2025-06-19 16:51:04] Command script started
+[2025-06-19 16:51:04] Command received: OFF3
+[2025-06-19 16:51:04] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-77305
+[2025-06-19 16:51:04] Connected to MQTT broker successfully
+[2025-06-19 16:51:04] Failed to publish command
+[2025-06-19 16:51:07] Command script started
+[2025-06-19 16:51:07] Command received: OFF2
+[2025-06-19 16:51:07] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-34323
+[2025-06-19 16:51:07] Connected to MQTT broker successfully
+[2025-06-19 16:51:07] Failed to publish command
+[2025-06-19 16:51:11] Command script started
+[2025-06-19 16:51:11] Command received: OFF1
+[2025-06-19 16:51:11] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-52803
+[2025-06-19 16:51:12] Connected to MQTT broker successfully
+[2025-06-19 16:51:12] Failed to publish command
+[2025-06-19 16:51:20] Command script started
+[2025-06-19 16:51:20] Command received: AUTO
+[2025-06-19 16:51:20] Invalid command: AUTO
+[2025-06-19 16:51:46] Command script started
+[2025-06-19 16:51:46] Command received: ON1
+[2025-06-19 16:51:46] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-41229
+[2025-06-19 16:51:46] Connected to MQTT broker successfully
+[2025-06-19 16:51:46] Failed to publish command
+[2025-06-19 16:51:46] Command script started
+[2025-06-19 16:51:46] Command received: ON2
+[2025-06-19 16:51:46] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-33693
+[2025-06-19 16:51:47] Connected to MQTT broker successfully
+[2025-06-19 16:51:47] Failed to publish command
+[2025-06-19 16:51:57] Command script started
+[2025-06-19 16:51:57] Command received: ON3
+[2025-06-19 16:51:57] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-74224
+[2025-06-19 16:51:57] Connected to MQTT broker successfully
+[2025-06-19 16:51:57] Failed to publish command
+[2025-06-19 16:52:20] Command script started
+[2025-06-19 16:52:20] Command received: TOGGLE
+[2025-06-19 16:52:20] Invalid command: TOGGLE
+[2025-06-19 16:58:12] Command script started
+[2025-06-19 16:58:12] Command received: OFF1
+[2025-06-19 16:58:12] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-97892
+[2025-06-19 16:58:12] Connected to MQTT broker successfully
+[2025-06-19 16:58:12] Failed to publish command
+[2025-06-19 16:58:16] Command script started
+[2025-06-19 16:58:16] Command received: ON1
+[2025-06-19 16:58:16] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-73737
+[2025-06-19 16:58:16] Connected to MQTT broker successfully
+[2025-06-19 16:58:16] Failed to publish command
+[2025-06-19 16:58:21] Command script started
+[2025-06-19 16:58:21] Command received: ON1
+[2025-06-19 16:58:21] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-94620
+[2025-06-19 16:58:21] Connected to MQTT broker successfully
+[2025-06-19 16:58:21] Failed to publish command
+[2025-06-19 16:58:57] Command script started
+[2025-06-19 16:58:57] Command received: OFF3
+[2025-06-19 16:58:57] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-46378
+[2025-06-19 16:58:57] Connected to MQTT broker successfully
+[2025-06-19 16:58:57] Failed to publish command
+[2025-06-19 16:59:04] Command script started
+[2025-06-19 16:59:04] Command received: TOGGLE
+[2025-06-19 16:59:04] Invalid command: TOGGLE
+[2025-06-19 16:59:10] Command script started
+[2025-06-19 16:59:10] Command received: AUTO
+[2025-06-19 16:59:10] Invalid command: AUTO
+[2025-06-19 17:02:42] Command script started
+[2025-06-19 17:02:42] Command received: ON3
+[2025-06-19 17:02:42] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-33075
+[2025-06-19 17:02:42] Connected to MQTT broker successfully
+[2025-06-19 17:02:42] Failed to publish command
+[2025-06-19 17:08:41] Command script started
+[2025-06-19 17:08:41] Command received: OFF1
+[2025-06-19 17:08:41] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-50684
+[2025-06-19 17:08:41] Connected to MQTT broker successfully
+[2025-06-19 17:08:41] Failed to publish command
+[2025-06-19 17:08:43] Command script started
+[2025-06-19 17:08:43] Command received: ON1
+[2025-06-19 17:08:43] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-76437
+[2025-06-19 17:08:43] Connected to MQTT broker successfully
+[2025-06-19 17:08:43] Failed to publish command
+[2025-06-19 17:08:51] Command script started
+[2025-06-19 17:08:51] Command received: AUTO
+[2025-06-19 17:08:51] Invalid command: AUTO
+[2025-06-19 17:09:06] Command script started
+[2025-06-19 17:09:06] Command received: OFF1
+[2025-06-19 17:09:06] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-21343
+[2025-06-19 17:09:07] Connected to MQTT broker successfully
+[2025-06-19 17:09:07] Failed to publish command
+[2025-06-19 17:09:07] Command script started
+[2025-06-19 17:09:07] Command received: OFF2
+[2025-06-19 17:09:07] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-41097
+[2025-06-19 17:09:08] Connected to MQTT broker successfully
+[2025-06-19 17:09:08] Failed to publish command
+[2025-06-19 17:09:08] Command script started
+[2025-06-19 17:09:08] Command received: OFF3
+[2025-06-19 17:09:08] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-20264
+[2025-06-19 17:09:08] Connected to MQTT broker successfully
+[2025-06-19 17:09:08] Failed to publish command
+[2025-06-19 17:09:20] Command script started
+[2025-06-19 17:09:20] Command received: AUTO
+[2025-06-19 17:09:20] Invalid command: AUTO
+[2025-06-19 17:09:27] Command script started
+[2025-06-19 17:09:27] Command received: TOGGLE
+[2025-06-19 17:09:27] Invalid command: TOGGLE
+[2025-06-19 17:09:52] Command script started
+[2025-06-19 17:09:52] Command received: ON1
+[2025-06-19 17:09:52] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-51170
+[2025-06-19 17:09:52] Connected to MQTT broker successfully
+[2025-06-19 17:09:52] Failed to publish command
+[2025-06-19 17:09:59] Command script started
+[2025-06-19 17:09:59] Command received: ON2
+[2025-06-19 17:09:59] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-14224
+[2025-06-19 17:10:00] Connected to MQTT broker successfully
+[2025-06-19 17:10:00] Failed to publish command
+[2025-06-19 17:10:03] Command script started
+[2025-06-19 17:10:03] Command received: ON3
+[2025-06-19 17:10:03] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-21026
+[2025-06-19 17:10:04] Connected to MQTT broker successfully
+[2025-06-19 17:10:04] Failed to publish command
+[2025-06-19 17:14:29] Command script started
+[2025-06-19 17:14:29] Command received: OFF1
+[2025-06-19 17:14:29] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-16445
+[2025-06-19 17:14:29] Connected to MQTT broker successfully
+[2025-06-19 17:14:29] Failed to publish command
+[2025-06-19 17:14:35] Command script started
+[2025-06-19 17:14:35] Command received: ON1
+[2025-06-19 17:14:35] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-62650
+[2025-06-19 17:14:35] Connected to MQTT broker successfully
+[2025-06-19 17:14:35] Failed to publish command
+[2025-06-19 17:23:49] Command script started
+[2025-06-19 17:23:49] Command received: OFF2
+[2025-06-19 17:23:49] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-13953
+[2025-06-19 17:23:49] Connected to MQTT broker successfully
+[2025-06-19 17:23:49] Failed to publish command
+[2025-06-19 17:23:53] Command script started
+[2025-06-19 17:23:53] Command received: OFF3
+[2025-06-19 17:23:53] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-47490
+[2025-06-19 17:23:53] Connected to MQTT broker successfully
+[2025-06-19 17:23:53] Failed to publish command
+[2025-06-19 17:24:27] Command script started
+[2025-06-19 17:24:27] Command received: OFF3
+[2025-06-19 17:24:27] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-92382
+[2025-06-19 17:24:27] Connected to MQTT broker successfully
+[2025-06-19 17:24:27] Failed to publish command
+[2025-06-19 17:24:40] Command script started
+[2025-06-19 17:24:40] Command received: OFF1
+[2025-06-19 17:24:40] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-72252
+[2025-06-19 17:24:40] Connected to MQTT broker successfully
+[2025-06-19 17:24:40] Failed to publish command
+[2025-06-19 17:32:17] Command script started
+[2025-06-19 17:32:17] Command received: ON3
+[2025-06-19 17:32:17] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-63142
+[2025-06-19 17:32:17] Connected to MQTT broker successfully
+[2025-06-19 17:32:17] Failed to publish command
+[2025-06-19 17:32:18] Command script started
+[2025-06-19 17:32:18] Command received: ON2
+[2025-06-19 17:32:18] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-71025
+[2025-06-19 17:32:18] Connected to MQTT broker successfully
+[2025-06-19 17:32:18] Failed to publish command
+[2025-06-19 17:32:20] Command script started
+[2025-06-19 17:32:20] Command received: ON1
+[2025-06-19 17:32:20] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-25738
+[2025-06-19 17:32:20] Connected to MQTT broker successfully
+[2025-06-19 17:32:20] Failed to publish command
+[2025-06-19 17:41:00] Command script started
+[2025-06-19 17:41:00] Command received: OFF2
+[2025-06-19 17:41:00] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-78646
+[2025-06-19 17:41:00] Connected to MQTT broker successfully
+[2025-06-19 17:41:00] Failed to publish command
+[2025-06-19 17:41:07] Command script started
+[2025-06-19 17:41:07] Command received: ON2
+[2025-06-19 17:41:07] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-26550
+[2025-06-19 17:41:07] Connected to MQTT broker successfully
+[2025-06-19 17:41:07] Failed to publish command
+[2025-06-19 17:41:09] Command script started
+[2025-06-19 17:41:09] Command received: OFF1
+[2025-06-19 17:41:09] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-77425
+[2025-06-19 17:41:09] Connected to MQTT broker successfully
+[2025-06-19 17:41:09] Failed to publish command
+[2025-06-19 17:41:11] Command script started
+[2025-06-19 17:41:11] Command received: OFF2
+[2025-06-19 17:41:11] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-76602
+[2025-06-19 17:41:11] Connected to MQTT broker successfully
+[2025-06-19 17:41:11] Failed to publish command
+[2025-06-19 17:41:13] Command script started
+[2025-06-19 17:41:13] Command received: OFF3
+[2025-06-19 17:41:13] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-51105
+[2025-06-19 17:41:13] Connected to MQTT broker successfully
+[2025-06-19 17:41:13] Failed to publish command
+[2025-06-19 17:50:48] Command script started
+[2025-06-19 17:50:48] Command received: ON1
+[2025-06-19 17:50:48] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-73078
+[2025-06-19 17:50:48] Connected to MQTT broker successfully
+[2025-06-19 17:50:48] Failed to publish command
+[2025-06-19 17:50:55] Command script started
+[2025-06-19 17:50:55] Command received: ON2
+[2025-06-19 17:50:55] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-64405
+[2025-06-19 17:50:56] Connected to MQTT broker successfully
+[2025-06-19 17:50:56] Failed to publish command
+[2025-06-19 17:51:01] Command script started
+[2025-06-19 17:51:01] Command received: ON3
+[2025-06-19 17:51:01] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-13534
+[2025-06-19 17:51:03] Connected to MQTT broker successfully
+[2025-06-19 17:51:03] Failed to publish command
+[2025-06-19 17:51:11] Command script started
+[2025-06-19 17:51:11] Command received: OFF3
+[2025-06-19 17:51:11] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-51302
+[2025-06-19 17:51:12] Connected to MQTT broker successfully
+[2025-06-19 17:51:12] Failed to publish command
+[2025-06-19 17:51:15] Command script started
+[2025-06-19 17:51:15] Command received: OFF2
+[2025-06-19 17:51:15] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-98242
+[2025-06-19 17:51:16] Connected to MQTT broker successfully
+[2025-06-19 17:51:16] Failed to publish command
+[2025-06-19 17:51:20] Command script started
+[2025-06-19 17:51:20] Command received: OFF1
+[2025-06-19 17:51:20] Connecting to MQTT server: mqtt.revolusi-it.com:1883 as PHPClient-70741
+[2025-06-19 17:51:21] Connected to MQTT broker successfully
+[2025-06-19 17:51:21] Failed to publish command
